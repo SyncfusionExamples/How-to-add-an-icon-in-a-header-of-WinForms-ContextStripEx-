@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp7
+﻿namespace ContextMenuStripExIconCustomization
 {
     partial class Form1
     {

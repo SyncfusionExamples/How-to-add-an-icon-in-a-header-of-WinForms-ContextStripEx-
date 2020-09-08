@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WindowsFormsApp7")]
+[assembly: AssemblyTitle("ContextMenuStripExIconCustomization")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WindowsFormsApp7")]
+[assembly: AssemblyProduct("ContextMenuStripExIconCustomization")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2c14924e-f7b2-43e3-8ddb-3bd288aaa4a2")]
+[assembly: Guid("9e84f124-c5bd-407c-b59e-3a96c60f2288")]
 
 // Version information for an assembly consists of the following four values:
 //
