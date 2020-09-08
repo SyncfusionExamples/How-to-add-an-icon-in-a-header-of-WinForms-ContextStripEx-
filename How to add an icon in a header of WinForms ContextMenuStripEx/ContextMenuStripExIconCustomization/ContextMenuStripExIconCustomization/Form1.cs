@@ -40,7 +40,7 @@ namespace ContextMenuStripExIconCustomization
                 this.contextMenuStripEx.Items.AddRange(new System.Windows.Forms.ToolStripItem[] { this.toolStripMenuItem1, this.toolStripMenuItem2, this.toolStripMenuItem3, });
                //Add the CustomcontextmenustripEx to form ContextMenuStrip
                 this.ContextMenuStrip = this.contextMenuStripEx;
-            this.Text = "ContextMenuStripex";
+                this.Text = "ContextMenuStripex";
             }
         }
 
